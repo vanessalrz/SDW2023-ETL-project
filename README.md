@@ -1,4 +1,4 @@
-# SDW2023_ETLproject
+# SDW2023-ETL-project
 
 **Contexto:** Este projeto visa desenvolver um processo de ETL (Extract, Transform, Load).
 
